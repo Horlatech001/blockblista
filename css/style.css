@@ -83,6 +83,11 @@ a:focus {
           box-shadow: none;
 }
 
+
+.l_ogo{
+  width: 180px;
+}
+
 /*header section*/
 .hero_area {
   position: relative;

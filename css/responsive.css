@@ -97,6 +97,10 @@
   .contact-form{
     width: 80%
   }
+
+  .l_ogo{
+    margin-left: -50px;
+  }
 }
 
 @media (max-width: 420px) {
